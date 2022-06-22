@@ -36,6 +36,8 @@ go run main.go
 # Retrieve the message you just set
 curl --user "janet.weaver@reqres.in:Janet" http://localhost:8080/admin/user
 
+```
+
 
 
 
