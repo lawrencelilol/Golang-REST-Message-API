@@ -1,5 +1,10 @@
 # Golang REST Message API
-A simple API that allows users to get and post messages. It uses https://reqres.in/api/users as a third party API for users authentication (with user's first name as password)
+A simple API that allows users to get and post messages. 
+
+# Task
+
+Using Golang, create a simple service that serves a REST API that allows users to store and retrieve a message. It uses https://reqres.in/api/users as a third party API for users authentication (with user's first name as password)
+
 
 # Build and Run
 
